@@ -1,4 +1,4 @@
-# R-Analise_Exploratoria
+# Analise_Exploratoria
 
 Neste projeto    são    aplicadas    técnicas    de    análise    exploratóriaem    dados socioeconômicos  reais  disponíveis  publicamente.
 Para  a  análise,  os  dados  são  reorganizados  usando  uma  interessante  estratégia  de mudança de perspectiva dos dados. 
